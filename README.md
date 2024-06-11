@@ -86,9 +86,9 @@ butter (cups): 1.00
 To run this script, ensure you have Python installed on your system. Clone this repository and run the script using a Python interpreter.
 
 ```sh
-git clone https://github.com/your-username/recipe-size-converter.git
-cd recipe-size-converter
-python recipe_converter.py
+git clone https://github.com/CireWire/fuzzy-octo-train.git
+cd fuzzy-octo-train
+python convert_recipe.py
 ```
 
 ## Contributing
